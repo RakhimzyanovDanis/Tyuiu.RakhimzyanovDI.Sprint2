@@ -28,7 +28,7 @@ namespace Tyuiu.RakhimzyanovDI.Sprint2.Task0.V20
             res = ds.GetCompareOperations(x, y);
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         *");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("X = " + x);
