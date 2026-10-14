@@ -2,7 +2,7 @@
 
 namespace Tyuiu.RakhimzyanovDI.Sprint2.Task4.V27.Lib
 {
-    public class DataService : ISprint2Task4V29
+    public class DataService : ISprint2Task4V27
     {
         public double Calculate(double x, double y)
         {
